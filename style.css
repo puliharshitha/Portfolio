@@ -161,8 +161,7 @@ section {
 }
 
 .banda_annaya {
- font-size: 20px ;
-
+  font-size: 20px;
 }
 
 /* PROFILE SECTION */
@@ -268,7 +267,6 @@ section {
 
 /* EXPIERIENCE */
 
-
 #Experience {
   position: relative;
 }
@@ -293,12 +291,6 @@ section {
   border-radius: 2rem;
 }
 
-.arrow {
-  position: absolute;
-  right: -5rem;
-  bottom: 2.5rem;
-}
-
 .details-container_1 {
   padding: 1.5rem;
   flex: 1;
@@ -318,8 +310,6 @@ section {
   width: 400px;
   margin: auto 0;
 }
-
-
 
 /* ABOUT SECTION */
 
@@ -351,6 +341,13 @@ section {
   position: absolute;
   right: -5rem;
   bottom: 2.5rem;
+}
+
+.arr {
+  position: absolute;
+  right: 5.1rem;
+  bottom: -80rem;
+  height: 30px;
 }
 
 .details-container {
